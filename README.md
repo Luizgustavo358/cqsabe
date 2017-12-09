@@ -1,5 +1,5 @@
 # C que sabe!
-## Um minicurso para a 6ª Escola de Férias do ICEI - PUC Minas
+### Um minicurso para a 6ª Escola de Férias do ICEI - PUC Minas
 
 Seja muito bem-vindo ao minicurso "C que sabe!"!
 Este minicurso visa fornecer um conhecimento necessário aos alunos do curso de Ciência da Computação da PUC Minas que estão cursando o primeiro e segundo períodos, porém é válido para os alunos mais avançados no curso que nunca lidaram com a linguagem, e todo o público que já teve algum contato com programação.
